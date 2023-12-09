@@ -1,37 +1,42 @@
 # TÍTULO DO PROJETO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Modelagem e Construção de Aplicações 3D`
+`2023 - Semestre 2`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Gabriel Leite
+- Luis Otavio Albergoni
 
 ## Professor
 
-- Mestre Yoda
+- Will Machado
 
-# Documentação
+## Descrição
+- Este repositório abriga dois projetos colaborativos de animação de carro e game feito na Unreal, desenvolvidos por GABRIEL LEITE e LUIS OTAVIO no Blender. Diferentemente do processo tradicional de modelagem, optamos por importar um modelos previamente configurado como o RIGCAR para otimizar o tempo e aproveitar recursos existentes.
 
-<ol>
-<li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="docs/3-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/4-Metodologia.md"> Metodologia</a></li>
-<li><a href="docs/5-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/6-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/7-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/8-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/9-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/13-Referências.md"> Referências</a></li>
-</ol>
+## Recursos Utilizados para CAR ANIMATION
+
+- Modelagem 3D:
+Importamos um modelo de carro pré-configurado como RIGCAR, permitindo-nos concentrar nas técnicas avançadas de modelagem, como extrusão e shading, para aprimorar detalhes e realismo.
+
+- Cenário:
+Importamos uma variedade de elementos, incluindo estrada, postes, construções e outro modelo de carro, para compor um ambiente diversificado e imersivo.
+
+- Iluminação:
+Implementamos uma iluminação eficaz na cena, incluindo postes com luzes planas e uma fonte de luz do tipo sol no centro do mapa para aprimorar a iluminação geral.
+
+- Animação:
+Adicionamos movimento dinâmico ao carro, utilizando keyframes para definir a trajetória ao longo da estrada. A rotação das rodas foi animada para proporcionar uma representação realista do movimento. Além disso, utilizamos keyframes para fazer a câmera acompanhar o carro até o final da animação, oferecendo uma perspectiva envolvente.
+
+- Texturização:
+Aplicamos texturas de alta qualidade para melhorar a estética do ambiente e proporcionar uma experiência visualmente agradável.
+
+- Efeito de Névoa:
+Implementamos um efeito de névoa utilizando um cubo que envolve toda a animação. A textura de volume scatter foi aplicada ao cubo, e a densidade foi ajustada para criar uma atmosfera envolvente.
+
+## Recursos Utilizados para Unreal Game
 
 # Código
 
