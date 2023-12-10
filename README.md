@@ -14,7 +14,7 @@
 - Will Machado
 
 ## Descrição
-- Este repositório abriga dois projetos colaborativos de animação de carro e game feito na Unreal, desenvolvidos por GABRIEL LEITE e LUIS OTAVIO no Blender. Diferentemente do processo tradicional de modelagem, optamos por importar um modelos previamente configurado como o RIGCAR para otimizar o tempo e aproveitar recursos existentes.
+- Este repositório abriga dois projetos colaborativos de animação de carro feito no Blender e game feito na Unity, desenvolvidos por GABRIEL LEITE e LUIS OTAVIO. Diferentemente do processo tradicional de modelagem, optamos por importar um modelos previamente configurado como o RIGCAR para otimizar o tempo e aproveitar recursos existentes.
 
 ## Recursos Utilizados para CAR ANIMATION
 
@@ -36,7 +36,24 @@ Aplicamos texturas de alta qualidade para melhorar a estética do ambiente e pro
 - Efeito de Névoa:
 Implementamos um efeito de névoa utilizando um cubo que envolve toda a animação. A textura de volume scatter foi aplicada ao cubo, e a densidade foi ajustada para criar uma atmosfera envolvente.
 
-## Recursos Utilizados para Unreal Game
+## Recursos Utilizados para Unity Game
+
+-Cenário 3D:
+O jogo é um "plataformer" 3D com a perspectiva de terceira pessoa (a câmera é posicionada acima do protagonista).
+
+-Modelos 3D:
+Todos os elementos do jogo são figuras geometricas simples, porém distinguidas entre si.
+
+-Game over:
+No jogo, caso você caia das plataformas ou entre em contato com inimigos, o personagem morre e você tem que começar o nível de novo.
+
+-Múltiplos Níveis:
+Há mais de um nivel presente no jogo.
+
+-Scripts:
+Além da edição na engine em si, foi usado códigos feitos em C# para fazer a logica de colisão, game over, ir de um nível ao outro, waypoints(que faz a movimentação entre um ponto e outro, usado para movimentar os inimigos e plataformas).
+
+
 
 # Código
 
