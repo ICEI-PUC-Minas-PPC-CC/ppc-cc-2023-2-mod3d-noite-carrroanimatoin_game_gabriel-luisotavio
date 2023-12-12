@@ -15,6 +15,7 @@
 
 ## Descrição
 - Este repositório abriga dois projetos colaborativos de animação de carro feito no Blender e game feito na Unity, desenvolvidos por GABRIEL LEITE e LUIS OTAVIO. Diferentemente do processo tradicional de modelagem, optamos por importar um modelos previamente configurado como o RIGCAR para otimizar o tempo e aproveitar recursos existentes.
+- O jogo feito na unity é um simples plataformer 3D feito primariamente com assets (os modelos 3D) nativos da unity, ele apresenta multiplas fases e scripts que dão a ele funcionalidade.
 
 ## Recursos Utilizados para CAR ANIMATION
 
