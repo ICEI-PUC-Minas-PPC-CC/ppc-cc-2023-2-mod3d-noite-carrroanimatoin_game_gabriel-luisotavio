@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Blender Animation && Unity Game
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelagem e Construção de Aplicações 3D`
