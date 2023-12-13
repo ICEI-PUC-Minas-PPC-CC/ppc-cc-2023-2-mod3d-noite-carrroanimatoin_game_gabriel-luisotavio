@@ -43,19 +43,19 @@ Implementamos um efeito de névoa utilizando um cubo que envolve toda a animaç�
 
 ## Recursos Utilizados para Unity Game
 
--Cenário 3D:
+- Cenário 3D:
 O jogo é um "plataformer" 3D com a perspectiva de terceira pessoa (a câmera é posicionada acima do protagonista).
 
--Modelos 3D:
+- Modelos 3D:
 Todos os elementos do jogo são figuras geometricas simples, porém distinguidas entre si.
 
--Game over:
+- Game over:
 No jogo, caso você caia das plataformas ou entre em contato com inimigos, o personagem morre e você tem que começar o nível de novo.
 
--Múltiplos Níveis:
+- Múltiplos Níveis:
 Há mais de um nivel presente no jogo.
 
--Scripts:
+- Scripts:
 Além da edição na engine em si, foi usado códigos feitos em C# para fazer a logica de colisão, game over, ir de um nível ao outro, waypoints(que faz a movimentação entre um ponto e outro, usado para movimentar os inimigos e plataformas).
 
 # Car Animation
