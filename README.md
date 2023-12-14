@@ -6,8 +6,8 @@
 
 ## Integrantes
 
-- Gabriel Leite
-- Luis Otavio Albergoni
+- Gabriel Leite Soares Ramos
+- Luis Otavio Albergoni Santos
 
 ## Professor
 
