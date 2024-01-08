@@ -15,7 +15,7 @@
 
 ## Arquivos Complementares
 - O seguinte link https://sgapucminasbr-my.sharepoint.com/:f:/g/personal/1362862_sga_pucminas_br/EsJcEtOYaSRImQ7K8ralODwBhdOLnvBCpnDh7tvI1n2IUw?e=F3gYMV leva a um repositório no ONEDRIVE onde estão dois arquivos do Projeto: CarAnimation.blend que é o main, e o arquivo Mercedes-C63-AMG-V3-FIX.Blend que é o carro usado no projeto.
-- Precisamos a esse repositório em nuvem pois os arquivos mesmo comprimidos estão com tamanho maior que 100MB, e o tamanho padrão aceito pelo GITHUB é 100MB. Tentamos usar o método do GIT LFS (git large files) que é usado para UPAR arquivos grandes para um repositório no GITHUB mas não obtivemos sucesso, recorrendo assim ao ONEDRIVE.
+- Precisamos recorrer a esse repositório em nuvem pois os arquivos mesmo comprimidos estão com tamanho maior que 100MB, e o tamanho padrão aceito pelo GITHUB é 100MB. Tentamos usar o método do GIT LFS (git large files) que é usado para UPAR arquivos grandes para um repositório no GITHUB mas não obtivemos sucesso, recorrendo assim ao ONEDRIVE.
 
 ## Descrição
 - Este repositório abriga dois projetos colaborativos de animação de carro feito no Blender e game feito na Unity, desenvolvidos por GABRIEL LEITE e LUIS OTAVIO. Diferentemente do processo tradicional de modelagem, optamos por importar um modelos previamente configurado como o RIGCAR para otimizar o tempo e aproveitar recursos existentes.
